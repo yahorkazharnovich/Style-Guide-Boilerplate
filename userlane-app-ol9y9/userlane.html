@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Userlane self-hosting package</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <style>
+        body {
+            font-family: Arial;
+            max-width: 500px;
+        }
+    </style>
+</head>
+<body>
+<h1>Userlane self-hosting package</h1>
+<p>This is the base folder of your Userlane self-hosting package.</p>
+<p>Use the Snippet below to load Userlane from this self-hosting package. This Snippet should be integrated into the application that you want to use Userlane on.</p>
+
+<p style="font-family: monospace">
+&lt;script&gt;<br>
+(function(i,s,o,g,r,a,m){i['UserlaneCommandObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)};a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','<span class="baselink"></span>userlane.js','Userlane');<br>
+<br>
+Userlane('init', ol9y9, {<br>
+&nbsp;&nbsp;&nbsp;enableHybrid: true,<br>
+&nbsp;&nbsp;&nbsp;hybridBaseUrl: '<span class="baselink"></span>'<br>
+});<br>
+&lt;/script&gt;
+</p>
+
+<p id="testIt">You can directly <a href="javascript:testSnippet();">test this</a> on this page.</p>
+<p id="fromFilesystem" style="display: none; color: #9c1f1f;">It seems like you opened this file directly from the file system. For the Userlane self-hosting package to work you need to put this folder and all it's files onto a webserver that serves these files via HTTP or HTTPS. Open this file (userlane.html) using the hostname of the webserver to get a ready-made version of the Snippet.</p>
+<h3>How to integrate it into the application</h3>
+<p>That really depends on the application. The only requirement for Userlane to be compatible is that it is a browser-based application that uses HTML, CSS, and JS for the interface.</p>
+<p>Userlane should be generally loaded after the application has initialized. Usually the Snippet can be just put to the end of the page, just before the &lt;/body&gt; tag. It needs to be reloaded after a page reload of course, so it is best practice to put it into the master template. On single page applications it only needs to be loaded once.</p>
+
+<h3>How to get help</h3>
+<p>Our technology experts are available via <a href="mailto:support@userlane.com" target="_blank">support@userlane.com</a>.</p>
+<p>&nbsp;</p>
+<p>The friendly people at Userlane</p>
+
+<script>
+    function getSelfHostingUrl() {
+        var url = window.location.href.split('/');
+        url.pop();
+        return url.join('/') + '/';
+    }
+    var baselink = getSelfHostingUrl();
+
+    if(baselink.substring(0,'file://'.length) == 'file://') {
+        document.getElementById('fromFilesystem').style.display = 'block';
+        document.getElementById('testIt').style.display = 'none';
+        baselink = 'https://example.com/userlane-app-ol9y9/'
+    }
+    var baselinkContainers = document.getElementsByClassName('baselink');
+    for(var i=0; i < baselinkContainers.length; i++) {
+        baselinkContainers[i].textContent = baselink;
+    }
+</script>
+<script>
+    function testSnippet() {
+        (function(i,s,o,g,r,a,m){i['UserlaneCommandObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)};a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script',getSelfHostingUrl()+'userlane.js','Userlane');
+
+        Userlane('init', 'ol9y9', {
+            enableHybrid: true,
+            hybridBaseUrl: getSelfHostingUrl()
+        });
+    }
+</script>
+</body>
+</html>
