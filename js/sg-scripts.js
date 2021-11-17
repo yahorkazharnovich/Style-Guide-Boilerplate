@@ -102,7 +102,7 @@ var SGB = window.SGB || {};
   a.async = 1;
   a.src = g;
   m.parentNode.insertBefore(a, m)
-})(window, document, 'script', '/Style-Guide-Boilerplate/userlane-app-ol9y9/userlane.js', 'Userlane');
+})(window, document, 'script', '/Style-Guide-Boilerplate/userlane.js', 'Userlane');
 
 Userlane('init', 'ol9y9', {
   enableHybrid: true,
