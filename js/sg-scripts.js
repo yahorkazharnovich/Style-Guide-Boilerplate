@@ -112,6 +112,7 @@ Userlane('onExit', function(userlaneId, user) {
 Userlane('init', 'ol9y9', {
   enableHybrid: true,
   hybridBaseUrl: 'https://yahorkazharnovich.github.io/Style-Guide-Boilerplate/',
+  failGracefully: false,
   stylings:{
     enableFailGracefully: false
   }
