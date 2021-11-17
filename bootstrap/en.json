@@ -1,1 +1,749 @@
-{"defaultAction":{"type":"assistant-v2"},"stylings":{"branded":"","back_mode":"nothing","avatar_img":"assets\/avatar.png","infobox_bg":"#00293D","main_color":"#494BED","privacyLevel":1,"hero_btn_text":"#ffffff","hide_userlane":false,"infobox_color":"#fff","searchEnabled":false,"second_btn_bg":"#ffffff","alerts_enabled":true,"emails_enabled":false,"mandatory_hint":"nothing","min_view_width":"700","selectorConfig":{"attributes":[],"valueBlocklist":[]},"externalLinkURL":"","min_time_signup":"","second_btn_text":"#494BED","default_language":"en","exit_click_twice":true,"assistantPosition":"bottom-left","btn_border_radius":"3px","disable_analytics":"0","hide_hero_advisor":false,"minSkipIfWaitTime":0,"assistantAllAccess":true,"language_behaviour":"fallback_to_default","click_here_arrow_bg":"#1E71DD","enableAnnouncements":true,"externalLinkEnabled":false,"helpDeskDocsLinkURL":"","enableFailGracefully":true,"elementSearchAttempts":20,"triggerKeydownOnClick":false,"click_here_arrow_color":"#fff","enableInteractiveTours":true,"helpDeskSupportLinkURL":"","helpDeskDocsLinkEnabled":false,"forceFixedOverlayPosition":false,"announcementCategoryColor1":"#fff0ad","announcementCategoryColor2":"#f9cfc7","announcementCategoryColor3":"#b3fac7","announcementCategoryColor4":"#c7c8f9","announcementCategoryColor5":"#c9ddf8","announcementCategoryColor6":"#f7d8b5","helpDeskSupportLinkEnabled":false,"enableParentVisibilityCheck":false,"attachSelectPointerdownEvent":false,"excludeUserlaneFromDocumentEvents":false},"launchers":[{"id":"85022","tags":[],"segment":null,"pageSegment":3198,"languageBehaviour":1,"status":"passive","tutorials":[{"id":"61279","tags":{"hideOn":[],"default":"show"},"segment":null,"pageSegment":3198,"languageBehaviour":1,"texts":{"steps":{"1186724":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Lorem ipsum dolor sit"},"1186725":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element STYLE GUIDE BOILERPLATE"},"1186726":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element DEMO"},"1186727":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element About Getting Started Colors Fonts Base Address Blockquote Details Fi..."},"1186728":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element Getting Started A living style guide is a great tool to promote visua..."},"1186729":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element Address"},"1186730":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element View Source"},"1186731":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element Copy Source <address> Company Name, Inc.<br> 811 7th Ave, Suite 700<b..."},"1186732":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Lorem ipsum dolor sit"}},"title":"style_guide follow","subtitle":""}},{"id":"61280","tags":{"hideOn":[],"default":"show"},"segment":null,"pageSegment":3199,"languageBehaviour":1,"texts":{"steps":{"1186909":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Lorem ipsum dolor sit"},"1186910":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element Getting Started Colors Fonts"},"1186911":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element Address Blockquote Details Figure Form Buttons Form Fields Default Fo..."},"1186912":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element Alerts Breadcrumbs"},"1186913":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element Figure"},"1186914":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element Back to Top"},"1186915":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element Form Buttons"},"1186916":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element"},"1186917":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186918":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186919":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Lorem ipsum dolor sit"}},"title":"Additional guide 1","subtitle":""}},{"id":"61281","tags":{"hideOn":[],"default":"show"},"segment":null,"pageSegment":3199,"languageBehaviour":1,"texts":{"steps":{"1186921":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Lorem ipsum dolor sit"},"1186922":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element STYLE GUIDE BOILERPLATE"},"1186923":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element Form Fields Default"},"1186924":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186925":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186926":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186927":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186928":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186929":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186930":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186931":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186932":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186933":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186934":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Choose a value"},"1186936":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186937":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186938":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186939":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Click the element <\/"},"1186940":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186941":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186942":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186943":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186944":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186945":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186946":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186947":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186948":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186949":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Fill out the form"},"1186951":{"info":"","image":"","media":[],"title":"","video":"","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","message":"Lorem ipsum dolor sit"}},"title":"Forms","subtitle":""}}],"texts":{"headline":"Get understanding of StyleGuide","headline_sub":"Choose your destiny"},"welcome":[]}],"pageSegments":{"3199":{"id":3199,"name":"Styleguide","conditions":{"rules":["Style-Guide-Boilerplate\/demo.html"],"visibility":true},"usage":{"tutorials":[{"id":61281,"title":"Forms"},{"id":61280,"title":"Additional guide 1"}],"launchers":[],"assistant":false,"announcements":[]},"createdBy":{"id":3921,"name":"Yahor Kazharnovich"},"createdAt":"2021-05-11 16:47:17","updatedAt":"2021-05-12 12:10:08"},"3198":{"id":3198,"name":"Start page","conditions":{"rules":["Style-Guide-Boilerplate\/"],"visibility":true},"usage":{"tutorials":[{"id":61279,"title":"style_guide follow"}],"launchers":[{"id":85022,"title":"Get understanding of StyleGuide"}],"assistant":false,"announcements":[]},"createdBy":{"id":3921,"name":"Yahor Kazharnovich"},"createdAt":"2021-05-11 16:46:52","updatedAt":"2021-05-12 12:10:18"}},"texts":{"button_next":"Next","button_back":"BACK","button_autofill":"Autofill","autofill_motivation":"Type the value below or use the autofill button","label_clicktheelement":"Click the element","label_forcevalue_complete":"Well done!","label_infobox":"INFO","slide_howto":"INTERACTIVE TOUR","tooltip_leave_guide":"Leave","tut_exit_question":"Are you sure you want to leave the userlane?","tut_exit_btn_exit":"Yes, leave","tut_exit_btn_exit_tooltip":"All userlanes remain available","tut_exit_btn_continue":"No, continue","tut_exit_btn_continue_tooltip":"Great, go on!","button_scrolltoelement":"Scroll","label_arrow_clickhere":"Click here","assistant_title":"Welcome","assistant_subtitle":"Let's get started","nonempty_motivation":"You can't leave the input blank!","tutorial_subtitle":"","assistantBackToOverview":"Go back to the overview","locked_chapter_header":"Locked Chapter","locked_chapter_content":"Complete previous chapters to unlock","drag_start_motivation":"Click the element and start dragging","drag_drop_motivation":"Now drag and release the element here.","label_double_clicktheelement":"Double click on the element","label_right_clicktheelement":"Right click on the element","hover_motivation":"Hover over the element","locked_guide":"Complete the previous userlanes to unlock","guide_completed":"Well done!","form_fillout":"Fill out the form","label_shortcut":"Shortcuts","autofill_enter_prompt_motivation":"Press the enter key to proceed","button_back_disabled_tooltip":"Sorry, the former step couldn't be found","promotion_headline":"Are","promotion_subheadline":"ARE","label_shortcut_tab":"TAB","label_shortcut_enter":"ENTER","dropdown_form_fillout":"Choose a value","dropdown_autofill_motivation":"Type the value below or use the \"autoselect\" button","dropdown_button_autoselect":"AUTOSELECT","slide_intro_button_next":"LET'S GO","slide_outro_button_next":"DONE!","announcement_category_1":"NEW FEATURE","announcement_category_2":"REMINDER","announcement_category_3":"MUST SEE TOUR","announcement_category_4":"UPDATE","announcement_category_5":"FEEDBACK","announcement_category_6":"IMPORTANT","announcement_assistant_title":"All messages","announcement_assistant_next":"next","announcement_assistant_done":"done","search_bar_placeholder":"Search...","search_no_result":"No Results","external_link_header":"Sorry, we couldn't find what you were looking for!","external_link_text":"Click here for more help","search_filter_label_announcements":"Messages","search_filter_label_guides":"Guides","search_filter_label_documents":"Documents","search_page_initial_placeholder":"You can search for any content displayed in the Assistant.","a11y_assistant_avatar":"Virtual in-app assistant","a11y_assistant_avatar_close":"close","a11y_assistant_avatar_open":"Open this assistant to find additional pieces of useful information and interactive guidance for this application","a11y_assistant_search_results":"search results","a11y_assistant_list_item_icon":"interactive guide","a11y_assistant_list_item_icon_completed":"completed guide","a11y_assistant_list_item_arrow":"go forward","a11y_assistant_head_back_button":"Back","a11y_assistant_notification_count":"new items","a11y_assistant_empty_list":"no content available","a11y_assistant_chapter_progress_bar":"chapter progress in percentage","a11y_assistant_chapter_arrow":"Open chapter","a11y_announcement_pagination_previous":"Previous announcement","a11y_announcement_image":"announcement image","a11y_announcement_list_item_icon":"announcement","a11y_feedback_form":"feedback form","a11y_step_container":"Userlane Interactive Guide Step","a11y_step_loading":"Looking for the next step...","a11y_success_page":"Interactive guide completed","a11y_exit_guide":"Click to exit guide","a11y_document_list_item_icon":"document","a11y_search_filters_headline":"Click to filter the results by type","a11y_assistant_minimize_icon_instruction":"Click to minimize the virtual assistant and browse the main application, to return to the assistant press the escape key","a11y_assistant_list_item_icon_expand":"Click to go back to the document","a11y_assistant_minimize_esc_instruction":"To go back to the virtual assistant press the escape key","a11y_open_link":"Click to open the link in a new tab","step_search_label":"Searching for the step","step_not_found_header":"This step was not found","step_not_found_description":"Sorry for the inconvenience, the issue has been noted. If possible go back or exit the guide.","step_not_found_confirm_exit":"Leave","step_not_found_back_tooltip":"Go to the previous step to try again","help_desk_header":"Do you need help?","help_desk_support_link_text":"Contact support","help_desk_docs_link_text":"Go to help documentation"},"css":null,"featureToggles":{"segmentation":true,"manualStepboxPositioning":false,"searchVersion":1,"tutorialPdfExport":false,"assistantNavigation":true,"accessibility":true,"contributorRole":true,"selectorConfig":false,"reactPlayer":true,"failGracefully":true,"tooltips":false,"userReaction":false,"userReactionSlides":false,"reactEditor":false,"assistantWhiteLabeled":false,"rxWelcomeSlide":false,"helpDesk":true,"appAnalyticsLevel":1,"assistantSearchFilters":true}}
+{
+  "defaultAction": {
+    "type": "assistant-v2"
+  },
+  "stylings": {
+    "branded": "",
+    "back_mode": "nothing",
+    "avatar_img": "assets\/avatar.png",
+    "infobox_bg": "#00293D",
+    "main_color": "#494BED",
+    "privacyLevel": 1,
+    "hero_btn_text": "#ffffff",
+    "hide_userlane": false,
+    "infobox_color": "#fff",
+    "searchEnabled": false,
+    "second_btn_bg": "#ffffff",
+    "alerts_enabled": true,
+    "emails_enabled": false,
+    "mandatory_hint": "nothing",
+    "min_view_width": "700",
+    "selectorConfig": {
+      "attributes": [],
+      "valueBlocklist": []
+    },
+    "externalLinkURL": "",
+    "min_time_signup": "",
+    "second_btn_text": "#494BED",
+    "default_language": "en",
+    "exit_click_twice": true,
+    "assistantPosition": "bottom-left",
+    "btn_border_radius": "3px",
+    "disable_analytics": "0",
+    "hide_hero_advisor": false,
+    "minSkipIfWaitTime": 0,
+    "assistantAllAccess": true,
+    "language_behaviour": "fallback_to_default",
+    "click_here_arrow_bg": "#1E71DD",
+    "enableAnnouncements": true,
+    "externalLinkEnabled": false,
+    "helpDeskDocsLinkURL": "",
+    "enableFailGracefully": false,
+    "elementSearchAttempts": 20,
+    "triggerKeydownOnClick": false,
+    "click_here_arrow_color": "#fff",
+    "enableInteractiveTours": true,
+    "helpDeskSupportLinkURL": "",
+    "helpDeskDocsLinkEnabled": false,
+    "forceFixedOverlayPosition": false,
+    "announcementCategoryColor1": "#fff0ad",
+    "announcementCategoryColor2": "#f9cfc7",
+    "announcementCategoryColor3": "#b3fac7",
+    "announcementCategoryColor4": "#c7c8f9",
+    "announcementCategoryColor5": "#c9ddf8",
+    "announcementCategoryColor6": "#f7d8b5",
+    "helpDeskSupportLinkEnabled": false,
+    "enableParentVisibilityCheck": false,
+    "attachSelectPointerdownEvent": false,
+    "excludeUserlaneFromDocumentEvents": false
+  },
+  "launchers": [
+    {
+      "id": "85022",
+      "tags": [],
+      "segment": null,
+      "pageSegment": 3198,
+      "languageBehaviour": 1,
+      "status": "passive",
+      "tutorials": [
+        {
+          "id": "61279",
+          "tags": {
+            "hideOn": [],
+            "default": "show"
+          },
+          "segment": null,
+          "pageSegment": 3198,
+          "languageBehaviour": 1,
+          "texts": {
+            "steps": {
+              "1186724": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Lorem ipsum dolor sit"
+              },
+              "1186725": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element STYLE GUIDE BOILERPLATE"
+              },
+              "1186726": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element DEMO"
+              },
+              "1186727": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element About Getting Started Colors Fonts Base Address Blockquote Details Fi..."
+              },
+              "1186728": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element Getting Started A living style guide is a great tool to promote visua..."
+              },
+              "1186729": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element Address"
+              },
+              "1186730": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element View Source"
+              },
+              "1186731": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element Copy Source <address> Company Name, Inc.<br> 811 7th Ave, Suite 700<b..."
+              },
+              "1186732": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Lorem ipsum dolor sit"
+              }
+            },
+            "title": "style_guide follow",
+            "subtitle": ""
+          }
+        },
+        {
+          "id": "61280",
+          "tags": {
+            "hideOn": [],
+            "default": "show"
+          },
+          "segment": null,
+          "pageSegment": 3199,
+          "languageBehaviour": 1,
+          "texts": {
+            "steps": {
+              "1186909": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Lorem ipsum dolor sit"
+              },
+              "1186910": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element Getting Started Colors Fonts"
+              },
+              "1186911": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element Address Blockquote Details Figure Form Buttons Form Fields Default Fo..."
+              },
+              "1186912": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element Alerts Breadcrumbs"
+              },
+              "1186913": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element Figure"
+              },
+              "1186914": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element Back to Top"
+              },
+              "1186915": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element Form Buttons"
+              },
+              "1186916": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element"
+              },
+              "1186917": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186918": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186919": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Lorem ipsum dolor sit"
+              }
+            },
+            "title": "Additional guide 1",
+            "subtitle": ""
+          }
+        },
+        {
+          "id": "61281",
+          "tags": {
+            "hideOn": [],
+            "default": "show"
+          },
+          "segment": null,
+          "pageSegment": 3199,
+          "languageBehaviour": 1,
+          "texts": {
+            "steps": {
+              "1186921": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Lorem ipsum dolor sit"
+              },
+              "1186922": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element STYLE GUIDE BOILERPLATE"
+              },
+              "1186923": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element Form Fields Default"
+              },
+              "1186924": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186925": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186926": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186927": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186928": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186929": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186930": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186931": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186932": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186933": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186934": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Choose a value"
+              },
+              "1186936": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186937": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186938": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186939": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Click the element <\/"
+              },
+              "1186940": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186941": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186942": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186943": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186944": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186945": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186946": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186947": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186948": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186949": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Fill out the form"
+              },
+              "1186951": {
+                "info": "",
+                "image": "",
+                "media": [],
+                "title": "",
+                "video": "",
+                "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                "message": "Lorem ipsum dolor sit"
+              }
+            },
+            "title": "Forms",
+            "subtitle": ""
+          }
+        }
+      ],
+      "texts": {
+        "headline": "Get understanding of StyleGuide",
+        "headline_sub": "Choose your destiny"
+      },
+      "welcome": []
+    }
+  ],
+  "pageSegments": {
+    "3199": {
+      "id": 3199,
+      "name": "Styleguide",
+      "conditions": {
+        "rules": [
+          "Style-Guide-Boilerplate\/demo.html"
+        ],
+        "visibility": true
+      },
+      "usage": {
+        "tutorials": [
+          {
+            "id": 61281,
+            "title": "Forms"
+          },
+          {
+            "id": 61280,
+            "title": "Additional guide 1"
+          }
+        ],
+        "launchers": [],
+        "assistant": false,
+        "announcements": []
+      },
+      "createdBy": {
+        "id": 3921,
+        "name": "Yahor Kazharnovich"
+      },
+      "createdAt": "2021-05-11 16:47:17",
+      "updatedAt": "2021-05-12 12:10:08"
+    },
+    "3198": {
+      "id": 3198,
+      "name": "Start page",
+      "conditions": {
+        "rules": [
+          "Style-Guide-Boilerplate\/"
+        ],
+        "visibility": true
+      },
+      "usage": {
+        "tutorials": [
+          {
+            "id": 61279,
+            "title": "style_guide follow"
+          }
+        ],
+        "launchers": [
+          {
+            "id": 85022,
+            "title": "Get understanding of StyleGuide"
+          }
+        ],
+        "assistant": false,
+        "announcements": []
+      },
+      "createdBy": {
+        "id": 3921,
+        "name": "Yahor Kazharnovich"
+      },
+      "createdAt": "2021-05-11 16:46:52",
+      "updatedAt": "2021-05-12 12:10:18"
+    }
+  },
+  "texts": {
+    "button_next": "Next",
+    "button_back": "BACK",
+    "button_autofill": "Autofill",
+    "autofill_motivation": "Type the value below or use the autofill button",
+    "label_clicktheelement": "Click the element",
+    "label_forcevalue_complete": "Well done!",
+    "label_infobox": "INFO",
+    "slide_howto": "INTERACTIVE TOUR",
+    "tooltip_leave_guide": "Leave",
+    "tut_exit_question": "Are you sure you want to leave the userlane?",
+    "tut_exit_btn_exit": "Yes, leave",
+    "tut_exit_btn_exit_tooltip": "All userlanes remain available",
+    "tut_exit_btn_continue": "No, continue",
+    "tut_exit_btn_continue_tooltip": "Great, go on!",
+    "button_scrolltoelement": "Scroll",
+    "label_arrow_clickhere": "Click here",
+    "assistant_title": "Welcome",
+    "assistant_subtitle": "Let's get started",
+    "nonempty_motivation": "You can't leave the input blank!",
+    "tutorial_subtitle": "",
+    "assistantBackToOverview": "Go back to the overview",
+    "locked_chapter_header": "Locked Chapter",
+    "locked_chapter_content": "Complete previous chapters to unlock",
+    "drag_start_motivation": "Click the element and start dragging",
+    "drag_drop_motivation": "Now drag and release the element here.",
+    "label_double_clicktheelement": "Double click on the element",
+    "label_right_clicktheelement": "Right click on the element",
+    "hover_motivation": "Hover over the element",
+    "locked_guide": "Complete the previous userlanes to unlock",
+    "guide_completed": "Well done!",
+    "form_fillout": "Fill out the form",
+    "label_shortcut": "Shortcuts",
+    "autofill_enter_prompt_motivation": "Press the enter key to proceed",
+    "button_back_disabled_tooltip": "Sorry, the former step couldn't be found",
+    "promotion_headline": "Are",
+    "promotion_subheadline": "ARE",
+    "label_shortcut_tab": "TAB",
+    "label_shortcut_enter": "ENTER",
+    "dropdown_form_fillout": "Choose a value",
+    "dropdown_autofill_motivation": "Type the value below or use the \"autoselect\" button",
+    "dropdown_button_autoselect": "AUTOSELECT",
+    "slide_intro_button_next": "LET'S GO",
+    "slide_outro_button_next": "DONE!",
+    "announcement_category_1": "NEW FEATURE",
+    "announcement_category_2": "REMINDER",
+    "announcement_category_3": "MUST SEE TOUR",
+    "announcement_category_4": "UPDATE",
+    "announcement_category_5": "FEEDBACK",
+    "announcement_category_6": "IMPORTANT",
+    "announcement_assistant_title": "All messages",
+    "announcement_assistant_next": "next",
+    "announcement_assistant_done": "done",
+    "search_bar_placeholder": "Search...",
+    "search_no_result": "No Results",
+    "external_link_header": "Sorry, we couldn't find what you were looking for!",
+    "external_link_text": "Click here for more help",
+    "search_filter_label_announcements": "Messages",
+    "search_filter_label_guides": "Guides",
+    "search_filter_label_documents": "Documents",
+    "search_page_initial_placeholder": "You can search for any content displayed in the Assistant.",
+    "a11y_assistant_avatar": "Virtual in-app assistant",
+    "a11y_assistant_avatar_close": "close",
+    "a11y_assistant_avatar_open": "Open this assistant to find additional pieces of useful information and interactive guidance for this application",
+    "a11y_assistant_search_results": "search results",
+    "a11y_assistant_list_item_icon": "interactive guide",
+    "a11y_assistant_list_item_icon_completed": "completed guide",
+    "a11y_assistant_list_item_arrow": "go forward",
+    "a11y_assistant_head_back_button": "Back",
+    "a11y_assistant_notification_count": "new items",
+    "a11y_assistant_empty_list": "no content available",
+    "a11y_assistant_chapter_progress_bar": "chapter progress in percentage",
+    "a11y_assistant_chapter_arrow": "Open chapter",
+    "a11y_announcement_pagination_previous": "Previous announcement",
+    "a11y_announcement_image": "announcement image",
+    "a11y_announcement_list_item_icon": "announcement",
+    "a11y_feedback_form": "feedback form",
+    "a11y_step_container": "Userlane Interactive Guide Step",
+    "a11y_step_loading": "Looking for the next step...",
+    "a11y_success_page": "Interactive guide completed",
+    "a11y_exit_guide": "Click to exit guide",
+    "a11y_document_list_item_icon": "document",
+    "a11y_search_filters_headline": "Click to filter the results by type",
+    "a11y_assistant_minimize_icon_instruction": "Click to minimize the virtual assistant and browse the main application, to return to the assistant press the escape key",
+    "a11y_assistant_list_item_icon_expand": "Click to go back to the document",
+    "a11y_assistant_minimize_esc_instruction": "To go back to the virtual assistant press the escape key",
+    "a11y_open_link": "Click to open the link in a new tab",
+    "step_search_label": "Searching for the step",
+    "step_not_found_header": "This step was not found",
+    "step_not_found_description": "Sorry for the inconvenience, the issue has been noted. If possible go back or exit the guide.",
+    "step_not_found_confirm_exit": "Leave",
+    "step_not_found_back_tooltip": "Go to the previous step to try again",
+    "help_desk_header": "Do you need help?",
+    "help_desk_support_link_text": "Contact support",
+    "help_desk_docs_link_text": "Go to help documentation"
+  },
+  "css": null,
+  "featureToggles": {
+    "segmentation": true,
+    "manualStepboxPositioning": false,
+    "searchVersion": 1,
+    "tutorialPdfExport": false,
+    "assistantNavigation": true,
+    "accessibility": true,
+    "contributorRole": true,
+    "selectorConfig": false,
+    "reactPlayer": true,
+    "failGracefully": false,
+    "tooltips": false,
+    "userReaction": false,
+    "userReactionSlides": false,
+    "reactEditor": false,
+    "assistantWhiteLabeled": false,
+    "rxWelcomeSlide": false,
+    "helpDesk": true,
+    "appAnalyticsLevel": 1,
+    "assistantSearchFilters": true
+  }
+}

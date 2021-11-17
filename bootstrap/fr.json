@@ -1,1 +1,302 @@
-{"defaultAction":{"type":"assistant-v2"},"stylings":{"branded":"","back_mode":"nothing","avatar_img":"assets\/avatar.png","infobox_bg":"#00293D","main_color":"#494BED","privacyLevel":1,"hero_btn_text":"#ffffff","hide_userlane":false,"infobox_color":"#fff","searchEnabled":false,"second_btn_bg":"#ffffff","alerts_enabled":true,"emails_enabled":false,"mandatory_hint":"nothing","min_view_width":"700","selectorConfig":{"attributes":[],"valueBlocklist":[]},"externalLinkURL":"","min_time_signup":"","second_btn_text":"#494BED","default_language":"en","exit_click_twice":true,"assistantPosition":"bottom-left","btn_border_radius":"3px","disable_analytics":"0","hide_hero_advisor":false,"minSkipIfWaitTime":0,"assistantAllAccess":true,"language_behaviour":"fallback_to_default","click_here_arrow_bg":"#1E71DD","enableAnnouncements":true,"externalLinkEnabled":false,"helpDeskDocsLinkURL":"","enableFailGracefully":true,"elementSearchAttempts":20,"triggerKeydownOnClick":false,"click_here_arrow_color":"#fff","enableInteractiveTours":true,"helpDeskSupportLinkURL":"","helpDeskDocsLinkEnabled":false,"forceFixedOverlayPosition":false,"announcementCategoryColor1":"#fff0ad","announcementCategoryColor2":"#f9cfc7","announcementCategoryColor3":"#b3fac7","announcementCategoryColor4":"#c7c8f9","announcementCategoryColor5":"#c9ddf8","announcementCategoryColor6":"#f7d8b5","helpDeskSupportLinkEnabled":false,"enableParentVisibilityCheck":false,"attachSelectPointerdownEvent":false,"excludeUserlaneFromDocumentEvents":false},"launchers":[{"id":"85022","tags":[],"segment":null,"pageSegment":3198,"languageBehaviour":1,"status":"passive","tutorials":[{"id":"61279","tags":{"hideOn":[],"default":"show"},"segment":null,"pageSegment":3198,"languageBehaviour":1,"texts":{"title":"","subtitle":""}},{"id":"61280","tags":{"hideOn":[],"default":"show"},"segment":null,"pageSegment":3199,"languageBehaviour":1,"texts":{"title":"","subtitle":""}},{"id":"61281","tags":{"hideOn":[],"default":"show"},"segment":null,"pageSegment":3199,"languageBehaviour":1,"texts":{"title":"","subtitle":""}}],"texts":{"headline":"Getting started with Userlane","headline_sub":"Choose your journey"},"welcome":[]}],"pageSegments":{"3199":{"id":3199,"name":"Styleguide","conditions":{"rules":["Style-Guide-Boilerplate\/demo.html"],"visibility":true},"usage":{"tutorials":[{"id":61281,"title":"Forms"},{"id":61280,"title":"Additional guide 1"}],"launchers":[],"assistant":false,"announcements":[]},"createdBy":{"id":3921,"name":"Yahor Kazharnovich"},"createdAt":"2021-05-11 16:47:17","updatedAt":"2021-05-12 12:10:08"},"3198":{"id":3198,"name":"Start page","conditions":{"rules":["Style-Guide-Boilerplate\/"],"visibility":true},"usage":{"tutorials":[{"id":61279,"title":"style_guide follow"}],"launchers":[{"id":85022,"title":"Get understanding of StyleGuide"}],"assistant":false,"announcements":[]},"createdBy":{"id":3921,"name":"Yahor Kazharnovich"},"createdAt":"2021-05-11 16:46:52","updatedAt":"2021-05-12 12:10:18"}},"texts":{"button_next":"SUIVANT","button_back":"RETOUR","button_autofill":"REMPLISSAGE AUTOMATIQUE","autofill_motivation":"Tapez ceci ou utilisez le bouton de remplissage automatique","label_clicktheelement":"Cliquer sur cet \u00e9l\u00e9ment","label_forcevalue_complete":"Well done!","label_infobox":"Information","slide_howto":"VISITE INTERACTIVE","tooltip_leave_guide":"Quitter","tut_exit_question":"\u00cates-vous s\u00fbr de vouloir quitter ce guide ?","tut_exit_btn_exit":"OUI, QUITTER LE GUIDE","tut_exit_btn_exit_tooltip":"Toutes les userlanes restent disponibles","tut_exit_btn_continue":"NON, REPRENDRE LE GUIDE","tut_exit_btn_continue_tooltip":"Super, continuons!","button_scrolltoelement":"FAIRE D\u00c9FILER","label_arrow_clickhere":"CLIQUER ICI","assistant_title":"Bienvenue","assistant_subtitle":"Commencer","nonempty_motivation":"You can't leave the input blank!","tutorial_subtitle":"","assistantBackToOverview":"Retourner \u00e0 l'aper\u00e7u ","locked_chapter_header":"Chapitre bloqu\u00e9","locked_chapter_content":"Finissez les chapitres pr\u00e9c\u00e9dents pour continuer","drag_start_motivation":"Faire un \"glisser-d\u00e9poser\"","drag_drop_motivation":"Faire glisser l'\u00e9l\u00e9ment et d\u00e9posez-le ici","label_double_clicktheelement":"Faire un double clic","label_right_clicktheelement":"Faire un clic droit","hover_motivation":"D\u00e9placez votre souris sur l'\u00e9l\u00e9ment","locked_guide":"Finissez les chapitres pr\u00e9c\u00e9dents pour continuer","guide_completed":"F\u00c9LICITATIONS!","form_fillout":"Remplissez le formulaire","label_shortcut":"Shortcuts","autofill_enter_prompt_motivation":"Appuyez sur la touche Entr\u00e9e pour continuer","button_back_disabled_tooltip":"D\u00e9sol\u00e9, nous n'avons pas pu trouver l'\u00e9tape pr\u00e9c\u00e9dente","promotion_headline":"Avant de commencer...","promotion_subheadline":"Importante userlane \u00e0 ne pas manquer aujourd'hui","label_shortcut_tab":"TAB","label_shortcut_enter":"ENTER","dropdown_form_fillout":"Choisir une valeur","dropdown_autofill_motivation":"Selectionner une option ci-dessous ou utiliser le bouton 'auto-selection'","dropdown_button_autoselect":"AUTO-SELECTION","slide_intro_button_next":"C'EST PARTI!","slide_outro_button_next":"\u00c7A Y EST!","announcement_category_1":"Nouvelle fonctionnalit\u00e9","announcement_category_2":"Rappel","announcement_category_3":"Guide incontournable","announcement_category_4":"Mise \u00e0 jour","announcement_category_5":"VOTRE AVIS\u00a0","announcement_category_6":"Important","announcement_assistant_title":"Messages","announcement_assistant_next":"Suivant","announcement_assistant_done":"Termin\u00e9","search_bar_placeholder":"Search...","search_no_result":"No Results","external_link_header":"Sorry, we couldn't find what you were looking for!","external_link_text":"Click here for more help","search_filter_label_announcements":"Messages","search_filter_label_guides":"Guides","search_filter_label_documents":"Documents","search_page_initial_placeholder":"Vous pouvez rechercher tout ce qui est affich\u00e9 dans l'assistant.","a11y_assistant_avatar":"Virtual in-app assistant","a11y_assistant_avatar_close":"close","a11y_assistant_avatar_open":"Open this assistant to find additional pieces of useful information and interactive guidance for this application","a11y_assistant_search_results":"search results","a11y_assistant_list_item_icon":"interactive guide","a11y_assistant_list_item_icon_completed":"completed guide","a11y_assistant_list_item_arrow":"go forward","a11y_assistant_head_back_button":"Back","a11y_assistant_notification_count":"new items","a11y_assistant_empty_list":"no content available","a11y_assistant_chapter_progress_bar":"chapter progress in percentage","a11y_assistant_chapter_arrow":"Open chapter","a11y_announcement_pagination_previous":"Previous announcement","a11y_announcement_image":"announcement image","a11y_announcement_list_item_icon":"announcement","a11y_feedback_form":"feedback form","a11y_step_container":"Userlane Interactive Guide Step","a11y_step_loading":"Looking for the next step...","a11y_success_page":"Interactive guide completed","a11y_exit_guide":"Click to exit guide","a11y_document_list_item_icon":"document","a11y_search_filters_headline":"Click to filter the results by type","a11y_assistant_minimize_icon_instruction":"Click to minimize the virtual assistant and browse the main application, to return to the assistant press the escape key","a11y_assistant_list_item_icon_expand":"Click to go back to the document","a11y_assistant_minimize_esc_instruction":"To go back to the virtual assistant press the escape key","a11y_open_link":"Click to open the link in a new tab","step_search_label":"Chargement de l'\u00e9tape","step_not_found_header":"Nous n'avons pas trouv\u00e9 cette \u00e9tape","step_not_found_description":"Nous nous excusons de l'interruption et avons pris note du probl\u00e8me. Retourner en arri\u00e8re ou quitter le guide.","step_not_found_confirm_exit":"Quitter","step_not_found_back_tooltip":"Retourner en arri\u00e8re et essayer de nouveau","help_desk_header":"Besoin d'aide?","help_desk_support_link_text":"Contacter le support","help_desk_docs_link_text":"Acc\u00e9der \u00e0 la documentation"},"css":null,"featureToggles":{"segmentation":true,"manualStepboxPositioning":false,"searchVersion":1,"tutorialPdfExport":false,"assistantNavigation":true,"accessibility":true,"contributorRole":true,"selectorConfig":false,"reactPlayer":true,"failGracefully":true,"tooltips":false,"userReaction":false,"userReactionSlides":false,"reactEditor":false,"assistantWhiteLabeled":false,"rxWelcomeSlide":false,"helpDesk":true,"appAnalyticsLevel":1,"assistantSearchFilters":true}}
+{
+  "defaultAction": {
+    "type": "assistant-v2"
+  },
+  "stylings": {
+    "branded": "",
+    "back_mode": "nothing",
+    "avatar_img": "assets\/avatar.png",
+    "infobox_bg": "#00293D",
+    "main_color": "#494BED",
+    "privacyLevel": 1,
+    "hero_btn_text": "#ffffff",
+    "hide_userlane": false,
+    "infobox_color": "#fff",
+    "searchEnabled": false,
+    "second_btn_bg": "#ffffff",
+    "alerts_enabled": true,
+    "emails_enabled": false,
+    "mandatory_hint": "nothing",
+    "min_view_width": "700",
+    "selectorConfig": {
+      "attributes": [],
+      "valueBlocklist": []
+    },
+    "externalLinkURL": "",
+    "min_time_signup": "",
+    "second_btn_text": "#494BED",
+    "default_language": "en",
+    "exit_click_twice": true,
+    "assistantPosition": "bottom-left",
+    "btn_border_radius": "3px",
+    "disable_analytics": "0",
+    "hide_hero_advisor": false,
+    "minSkipIfWaitTime": 0,
+    "assistantAllAccess": true,
+    "language_behaviour": "fallback_to_default",
+    "click_here_arrow_bg": "#1E71DD",
+    "enableAnnouncements": true,
+    "externalLinkEnabled": false,
+    "helpDeskDocsLinkURL": "",
+    "enableFailGracefully": false,
+    "elementSearchAttempts": 20,
+    "triggerKeydownOnClick": false,
+    "click_here_arrow_color": "#fff",
+    "enableInteractiveTours": true,
+    "helpDeskSupportLinkURL": "",
+    "helpDeskDocsLinkEnabled": false,
+    "forceFixedOverlayPosition": false,
+    "announcementCategoryColor1": "#fff0ad",
+    "announcementCategoryColor2": "#f9cfc7",
+    "announcementCategoryColor3": "#b3fac7",
+    "announcementCategoryColor4": "#c7c8f9",
+    "announcementCategoryColor5": "#c9ddf8",
+    "announcementCategoryColor6": "#f7d8b5",
+    "helpDeskSupportLinkEnabled": false,
+    "enableParentVisibilityCheck": false,
+    "attachSelectPointerdownEvent": false,
+    "excludeUserlaneFromDocumentEvents": false
+  },
+  "launchers": [
+    {
+      "id": "85022",
+      "tags": [],
+      "segment": null,
+      "pageSegment": 3198,
+      "languageBehaviour": 1,
+      "status": "passive",
+      "tutorials": [
+        {
+          "id": "61279",
+          "tags": {
+            "hideOn": [],
+            "default": "show"
+          },
+          "segment": null,
+          "pageSegment": 3198,
+          "languageBehaviour": 1,
+          "texts": {
+            "title": "",
+            "subtitle": ""
+          }
+        },
+        {
+          "id": "61280",
+          "tags": {
+            "hideOn": [],
+            "default": "show"
+          },
+          "segment": null,
+          "pageSegment": 3199,
+          "languageBehaviour": 1,
+          "texts": {
+            "title": "",
+            "subtitle": ""
+          }
+        },
+        {
+          "id": "61281",
+          "tags": {
+            "hideOn": [],
+            "default": "show"
+          },
+          "segment": null,
+          "pageSegment": 3199,
+          "languageBehaviour": 1,
+          "texts": {
+            "title": "",
+            "subtitle": ""
+          }
+        }
+      ],
+      "texts": {
+        "headline": "Getting started with Userlane",
+        "headline_sub": "Choose your journey"
+      },
+      "welcome": []
+    }
+  ],
+  "pageSegments": {
+    "3199": {
+      "id": 3199,
+      "name": "Styleguide",
+      "conditions": {
+        "rules": [
+          "Style-Guide-Boilerplate\/demo.html"
+        ],
+        "visibility": true
+      },
+      "usage": {
+        "tutorials": [
+          {
+            "id": 61281,
+            "title": "Forms"
+          },
+          {
+            "id": 61280,
+            "title": "Additional guide 1"
+          }
+        ],
+        "launchers": [],
+        "assistant": false,
+        "announcements": []
+      },
+      "createdBy": {
+        "id": 3921,
+        "name": "Yahor Kazharnovich"
+      },
+      "createdAt": "2021-05-11 16:47:17",
+      "updatedAt": "2021-05-12 12:10:08"
+    },
+    "3198": {
+      "id": 3198,
+      "name": "Start page",
+      "conditions": {
+        "rules": [
+          "Style-Guide-Boilerplate\/"
+        ],
+        "visibility": true
+      },
+      "usage": {
+        "tutorials": [
+          {
+            "id": 61279,
+            "title": "style_guide follow"
+          }
+        ],
+        "launchers": [
+          {
+            "id": 85022,
+            "title": "Get understanding of StyleGuide"
+          }
+        ],
+        "assistant": false,
+        "announcements": []
+      },
+      "createdBy": {
+        "id": 3921,
+        "name": "Yahor Kazharnovich"
+      },
+      "createdAt": "2021-05-11 16:46:52",
+      "updatedAt": "2021-05-12 12:10:18"
+    }
+  },
+  "texts": {
+    "button_next": "SUIVANT",
+    "button_back": "RETOUR",
+    "button_autofill": "REMPLISSAGE AUTOMATIQUE",
+    "autofill_motivation": "Tapez ceci ou utilisez le bouton de remplissage automatique",
+    "label_clicktheelement": "Cliquer sur cet \u00e9l\u00e9ment",
+    "label_forcevalue_complete": "Well done!",
+    "label_infobox": "Information",
+    "slide_howto": "VISITE INTERACTIVE",
+    "tooltip_leave_guide": "Quitter",
+    "tut_exit_question": "\u00cates-vous s\u00fbr de vouloir quitter ce guide ?",
+    "tut_exit_btn_exit": "OUI, QUITTER LE GUIDE",
+    "tut_exit_btn_exit_tooltip": "Toutes les userlanes restent disponibles",
+    "tut_exit_btn_continue": "NON, REPRENDRE LE GUIDE",
+    "tut_exit_btn_continue_tooltip": "Super, continuons!",
+    "button_scrolltoelement": "FAIRE D\u00c9FILER",
+    "label_arrow_clickhere": "CLIQUER ICI",
+    "assistant_title": "Bienvenue",
+    "assistant_subtitle": "Commencer",
+    "nonempty_motivation": "You can't leave the input blank!",
+    "tutorial_subtitle": "",
+    "assistantBackToOverview": "Retourner \u00e0 l'aper\u00e7u ",
+    "locked_chapter_header": "Chapitre bloqu\u00e9",
+    "locked_chapter_content": "Finissez les chapitres pr\u00e9c\u00e9dents pour continuer",
+    "drag_start_motivation": "Faire un \"glisser-d\u00e9poser\"",
+    "drag_drop_motivation": "Faire glisser l'\u00e9l\u00e9ment et d\u00e9posez-le ici",
+    "label_double_clicktheelement": "Faire un double clic",
+    "label_right_clicktheelement": "Faire un clic droit",
+    "hover_motivation": "D\u00e9placez votre souris sur l'\u00e9l\u00e9ment",
+    "locked_guide": "Finissez les chapitres pr\u00e9c\u00e9dents pour continuer",
+    "guide_completed": "F\u00c9LICITATIONS!",
+    "form_fillout": "Remplissez le formulaire",
+    "label_shortcut": "Shortcuts",
+    "autofill_enter_prompt_motivation": "Appuyez sur la touche Entr\u00e9e pour continuer",
+    "button_back_disabled_tooltip": "D\u00e9sol\u00e9, nous n'avons pas pu trouver l'\u00e9tape pr\u00e9c\u00e9dente",
+    "promotion_headline": "Avant de commencer...",
+    "promotion_subheadline": "Importante userlane \u00e0 ne pas manquer aujourd'hui",
+    "label_shortcut_tab": "TAB",
+    "label_shortcut_enter": "ENTER",
+    "dropdown_form_fillout": "Choisir une valeur",
+    "dropdown_autofill_motivation": "Selectionner une option ci-dessous ou utiliser le bouton 'auto-selection'",
+    "dropdown_button_autoselect": "AUTO-SELECTION",
+    "slide_intro_button_next": "C'EST PARTI!",
+    "slide_outro_button_next": "\u00c7A Y EST!",
+    "announcement_category_1": "Nouvelle fonctionnalit\u00e9",
+    "announcement_category_2": "Rappel",
+    "announcement_category_3": "Guide incontournable",
+    "announcement_category_4": "Mise \u00e0 jour",
+    "announcement_category_5": "VOTRE AVIS\u00a0",
+    "announcement_category_6": "Important",
+    "announcement_assistant_title": "Messages",
+    "announcement_assistant_next": "Suivant",
+    "announcement_assistant_done": "Termin\u00e9",
+    "search_bar_placeholder": "Search...",
+    "search_no_result": "No Results",
+    "external_link_header": "Sorry, we couldn't find what you were looking for!",
+    "external_link_text": "Click here for more help",
+    "search_filter_label_announcements": "Messages",
+    "search_filter_label_guides": "Guides",
+    "search_filter_label_documents": "Documents",
+    "search_page_initial_placeholder": "Vous pouvez rechercher tout ce qui est affich\u00e9 dans l'assistant.",
+    "a11y_assistant_avatar": "Virtual in-app assistant",
+    "a11y_assistant_avatar_close": "close",
+    "a11y_assistant_avatar_open": "Open this assistant to find additional pieces of useful information and interactive guidance for this application",
+    "a11y_assistant_search_results": "search results",
+    "a11y_assistant_list_item_icon": "interactive guide",
+    "a11y_assistant_list_item_icon_completed": "completed guide",
+    "a11y_assistant_list_item_arrow": "go forward",
+    "a11y_assistant_head_back_button": "Back",
+    "a11y_assistant_notification_count": "new items",
+    "a11y_assistant_empty_list": "no content available",
+    "a11y_assistant_chapter_progress_bar": "chapter progress in percentage",
+    "a11y_assistant_chapter_arrow": "Open chapter",
+    "a11y_announcement_pagination_previous": "Previous announcement",
+    "a11y_announcement_image": "announcement image",
+    "a11y_announcement_list_item_icon": "announcement",
+    "a11y_feedback_form": "feedback form",
+    "a11y_step_container": "Userlane Interactive Guide Step",
+    "a11y_step_loading": "Looking for the next step...",
+    "a11y_success_page": "Interactive guide completed",
+    "a11y_exit_guide": "Click to exit guide",
+    "a11y_document_list_item_icon": "document",
+    "a11y_search_filters_headline": "Click to filter the results by type",
+    "a11y_assistant_minimize_icon_instruction": "Click to minimize the virtual assistant and browse the main application, to return to the assistant press the escape key",
+    "a11y_assistant_list_item_icon_expand": "Click to go back to the document",
+    "a11y_assistant_minimize_esc_instruction": "To go back to the virtual assistant press the escape key",
+    "a11y_open_link": "Click to open the link in a new tab",
+    "step_search_label": "Chargement de l'\u00e9tape",
+    "step_not_found_header": "Nous n'avons pas trouv\u00e9 cette \u00e9tape",
+    "step_not_found_description": "Nous nous excusons de l'interruption et avons pris note du probl\u00e8me. Retourner en arri\u00e8re ou quitter le guide.",
+    "step_not_found_confirm_exit": "Quitter",
+    "step_not_found_back_tooltip": "Retourner en arri\u00e8re et essayer de nouveau",
+    "help_desk_header": "Besoin d'aide?",
+    "help_desk_support_link_text": "Contacter le support",
+    "help_desk_docs_link_text": "Acc\u00e9der \u00e0 la documentation"
+  },
+  "css": null,
+  "featureToggles": {
+    "segmentation": true,
+    "manualStepboxPositioning": false,
+    "searchVersion": 1,
+    "tutorialPdfExport": false,
+    "assistantNavigation": true,
+    "accessibility": true,
+    "contributorRole": true,
+    "selectorConfig": false,
+    "reactPlayer": true,
+    "failGracefully": false,
+    "tooltips": false,
+    "userReaction": false,
+    "userReactionSlides": false,
+    "reactEditor": false,
+    "assistantWhiteLabeled": false,
+    "rxWelcomeSlide": false,
+    "helpDesk": true,
+    "appAnalyticsLevel": 1,
+    "assistantSearchFilters": true
+  }
+}
