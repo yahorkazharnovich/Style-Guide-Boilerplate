@@ -92,3 +92,20 @@ var SGB = window.SGB || {};
     queryAll('.sg-btn--select').on('click', SGB.selectSourceCode);
   }
 }(this, SGB));
+
+(function (i, s, o, g, r, a, m) {
+  i['UserlaneCommandObject'] = r;
+  i[r] = i[r] || function () {
+    (i[r].q = i[r].q || []).push(arguments)
+  };
+  a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+  a.async = 1;
+  a.src = g;
+  m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '/userlane-app-ol9y9/userlane.js', 'Userlane');
+
+Userlane('init', 'ol9y9', {
+  enableHybrid: true,
+  hybridBaseUrl: 'https://yahorkazharnovich.github.io/userlane-app-ol9y9/',
+  enableFailGracefully: false
+});
