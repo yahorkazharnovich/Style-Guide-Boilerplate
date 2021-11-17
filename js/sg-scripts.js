@@ -104,6 +104,11 @@ var SGB = window.SGB || {};
   m.parentNode.insertBefore(a, m)
 })(window, document, 'script', '/Style-Guide-Boilerplate/userlane.js', 'Userlane');
 
+Userlane('onExit', function(userlaneId, user) {
+
+  window.alert('Man, your last chance 👊');
+});
+
 Userlane('init', 'ol9y9', {
   enableHybrid: true,
   hybridBaseUrl: 'https://yahorkazharnovich.github.io/Style-Guide-Boilerplate/',
