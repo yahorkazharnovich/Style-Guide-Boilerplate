@@ -98,7 +98,7 @@
     "contributorRole": true,
     "selectorConfig": false,
     "reactPlayer": true,
-    "failGracefully": false,
+    "failGracefully": true,
     "tooltips": false,
     "hideFailGracefullyManagerToggle": true,
     "disableEmailAlerts": false,

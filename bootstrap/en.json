@@ -735,7 +735,7 @@
     "contributorRole": true,
     "selectorConfig": false,
     "reactPlayer": true,
-    "failGracefully": false,
+    "failGracefully": true,
     "tooltips": false,
     "userReaction": false,
     "userReactionSlides": false,
